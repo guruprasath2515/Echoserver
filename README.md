@@ -22,7 +22,7 @@ Testing the server and client
 ## PROGRAM:
 # echo-server.py
 
-```
+```python
 import socket
 
 
@@ -44,7 +44,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```
 
 # echo-client.py
-```
+```python
 
 import socket
 
