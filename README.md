@@ -22,7 +22,7 @@ Testing the server and client
 ## PROGRAM:
 # echo-server.py
 
-
+```
 import socket
 
 
@@ -41,6 +41,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             if not data:
                 break
             conn.sendall(data)
+```
+```
 # echo-client.py
 
 
@@ -58,8 +60,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 
 print(f"Received {data!r}")
+```
 
 ## OUTPUT:
+
 ![Screenshot from 2023-08-31 09-27-29](https://github.com/Raja8334/Echoserver/assets/120719634/83673e56-3170-4aab-bfb2-c829d964688c)
 ![Screenshot from 2023-08-31 09-28-04](https://github.com/Raja8334/Echoserver/assets/120719634/98fbcf57-4cbb-4120-939e-b0dc939e637f)
 
