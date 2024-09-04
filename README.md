@@ -1,7 +1,6 @@
 # Echoserver
 Echo server and client using python socket
- GURUPRASATH R
- 212223040053
+ 
 
 # AIM:
 
@@ -22,6 +21,9 @@ Implementation using Python code
 Testing the server and client 
 
 ## PROGRAM:
+##NAME :GURUPRASATH R
+##REG NO: 212223040053
+
 # echo-server.py
 
 ```python
