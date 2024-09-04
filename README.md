@@ -1,5 +1,7 @@
 # Echoserver
 Echo server and client using python socket
+#NAME : GURUPRASATH R
+#REG NO: 212223040053
 
 # AIM:
 
@@ -64,8 +66,10 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 
-![Screenshot from 2023-08-31 09-27-29](https://github.com/Raja8334/Echoserver/assets/120719634/83673e56-3170-4aab-bfb2-c829d964688c)
-![Screenshot from 2023-08-31 09-28-04](https://github.com/Raja8334/Echoserver/assets/120719634/98fbcf57-4cbb-4120-939e-b0dc939e637f)
+![WhatsApp Image 2024-09-04 at 21 22 23_61f66238](https://github.com/user-attachments/assets/93191edf-ffa2-4061-b175-55a33ccac03f)
+
+![WhatsApp Image 2024-09-04 at 21 22 22_7df4ff80](https://github.com/user-attachments/assets/745b6dd7-0265-4b9b-a43b-a817015933ba)
+
 
 ## RESULT:
 The program is executed successfully
